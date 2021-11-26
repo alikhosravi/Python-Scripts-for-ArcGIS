@@ -11,7 +11,7 @@ Provide area of a polygon feature class
 Creates buffer around the features based on th radius that can be changen simply in line 9 of code
 
 
-```arcpy.Buffer_analysis(fcs, output, '~~500~~ Meters')```
+```arcpy.Buffer_analysis(fcs, output, ~~500~~ Meters)```
 
 ```Check field name```
 
