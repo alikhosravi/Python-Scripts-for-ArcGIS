@@ -1,5 +1,7 @@
 # Python Scripts for ArcGIS
 
+![This is an image](https://pic1.zhimg.com/v2-450c40b6741add4454d29be540e728a6_720w.jpg?source=172ae18b)
+
 ## The repository provide popular python scripts for ArcGIS desktop that are listed blow.
 
 ```Area calculation```
@@ -11,7 +13,7 @@ Provide area of a polygon feature class
 Creates buffer around the features based on th radius that can be changen simply in line 9 of code
 
 
-```arcpy.Buffer_analysis(fcs, output, '>500 Meters')```
+For example: arcpy.Buffer_analysis(fcs, output, '~~500~~ Meters')
 
 ```Check field name```
 
