@@ -1,15 +1,13 @@
 # Python Scripts for ArcGIS
 
-## The repository provide popular python scripts for ArcGIS desktop.
-"```
-Area calculation```
-"
-"```
-Buffer all feature classes ```
-"
-"```
-Check field name```
-"
+## The repository provide popular python scripts for ArcGIS desktop that are listed blow.
+
+```Area calculation```
+
+```Buffer all feature classes ```
+
+```Check field name```
+
 "```
 Cliping rasters```
 "
